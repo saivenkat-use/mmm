@@ -30,6 +30,8 @@ import jakarta.validation.Valid;
 public class carouselController 
 {
 
+	
+	//sai venkat
 	@Autowired
 	private carouselRepository repo;
 	
